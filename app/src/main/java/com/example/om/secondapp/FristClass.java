@@ -13,6 +13,7 @@ public class FristClass extends AppCompatActivity {
         setContentView(R.layout.firstactivity);
     }
 int a=10;
+    int b = 20;
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
         // Inflate the menu; this adds items to the action bar if it is present.
